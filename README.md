@@ -1,5 +1,5 @@
 # CS50 - Projects
-CS50: Introduction to Computer Science - Problem Sets
+[CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
 
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
 
@@ -10,7 +10,7 @@ CS50: Introduction to Computer Science - Problem Sets
 1. [Problem Set 1: C](https://cs50.harvard.edu/x/2024/psets/1/)
 
      - [hello.c](P0/hello.c)
-     - [mario.c]
-     - [credit.c]
+     - [mario.c](P0/mario.c)
+     - [credit.c](P0/credit.c)
 
-2. 
+2. [Problem Set 2: Array]()
