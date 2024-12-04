@@ -9,8 +9,8 @@
 
 1. [Problem Set 1: C](https://cs50.harvard.edu/x/2024/psets/1/)
 
-     - [hello.c](P0/hello.c)
-     - [mario.c](P0/mario.c)
-     - [credit.c](P0/credit.c)
+     - [hello.c](P1/hello.c)
+     - [mario.c](P1/mario.c)
+     - [credit.c](P1/credit.c)
 
 2. [Problem Set 2: Array]()
