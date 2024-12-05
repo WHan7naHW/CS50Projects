@@ -1,5 +1,5 @@
-# P2
+# [Problem Set 2](https://cs50.harvard.edu/x/2024/psets/2/)
 
-1. [scrabble](scrabble.c)
+1. [Scrabble](scrabble.c)
 
-2. 
+2. [Readability]
