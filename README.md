@@ -13,4 +13,8 @@
      - [mario.c](P1/mario.c)
      - [credit.c](P1/credit.c)
 
-2. [Problem Set 2: Array]()
+2. [Problem Set 2: Array](https://cs50.harvard.edu/x/2024/psets/2/)
+
+      - [scrabble,c](scrabble.c)
+      - [readability.c]
+      - 
