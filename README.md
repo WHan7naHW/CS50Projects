@@ -1,6 +1,8 @@
 # CS50 - Projects
 [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
 
+- [CS50 Manual](https://manual.cs50.io/)
+
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
 
 0. [Problem Set 0: Scratch](https://cs50.harvard.edu/x/2024/psets/0/)
