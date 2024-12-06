@@ -18,5 +18,7 @@
 2. [Problem Set 2: Array](https://cs50.harvard.edu/x/2024/psets/2/)
 
       - [scrabble.c](P2/scrabble.c)
-      - [readability.c]
-      - 
+      - [readability.c](P2/readability.c)
+      - [substitution.c]
+
+3. [Problem Set 3:
