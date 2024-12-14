@@ -19,6 +19,6 @@
 
       - [scrabble.c](P2/scrabble.c)
       - [readability.c](P2/readability.c)
-      - [substitution.c]
+      - [substitution.c](P2/substitution.c)
 
 3. [Problem Set 3:
