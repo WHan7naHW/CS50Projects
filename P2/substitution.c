@@ -1,8 +1,8 @@
 #include <cs50.h>
 #include <ctype.h>
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
+#include <string.h>
 
 string valid_key(int argc, string argv[]);
 string encrypt(string ptext, string key);
@@ -68,7 +68,7 @@ string valid_key(int argc, string argv[])
     for (int i = 0; i < 26; i++)
     {
         // the key should contain only alphabetic characters
-        if(!isalpha(KEY[i]))
+        if (!isalpha(KEY[i]))
         {
             printf("Key must contain 26 characters.\n");
             free(uppercaseKey);
