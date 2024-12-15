@@ -2,6 +2,8 @@
 [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
 
 - [CS50 Manual](https://manual.cs50.io/)
+- [Gradebook](https://cs50.me/cs50x)
+- [Workplace](https://cs50.dev/)
 
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
 
