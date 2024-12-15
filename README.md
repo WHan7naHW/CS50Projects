@@ -5,20 +5,24 @@
 
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
 
-0. [Problem Set 0: Scratch](https://cs50.harvard.edu/x/2024/psets/0/)
+0. [Problem Set 0 - Scratch](https://cs50.harvard.edu/x/2024/psets/0/)
    
      - [Pikku's Day](https://scratch.mit.edu/projects/1103496517/)
 
-1. [Problem Set 1: C](https://cs50.harvard.edu/x/2024/psets/1/)
+1. [Problem Set 1 - C](https://cs50.harvard.edu/x/2024/psets/1/)
 
      - [hello.c](P1/hello.c)
      - [mario.c](P1/mario.c)
      - [credit.c](P1/credit.c)
 
-2. [Problem Set 2: Array](https://cs50.harvard.edu/x/2024/psets/2/)
+2. [Problem Set 2 - Array](https://cs50.harvard.edu/x/2024/psets/2/)
 
       - [scrabble.c](P2/scrabble.c)
       - [readability.c](P2/readability.c)
       - [substitution.c](P2/substitution.c)
 
-3. [Problem Set 3:
+3. [Problem Set 3 - Algorithms](https://cs50.harvard.edu/x/2024/psets/3/)
+
+      - [sort.txt](P3/sort_test.txt)
+      - 
+4. [Problem Set 4 - 
