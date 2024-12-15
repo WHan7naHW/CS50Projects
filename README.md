@@ -24,5 +24,6 @@
 3. [Problem Set 3 - Algorithms](https://cs50.harvard.edu/x/2024/psets/3/)
 
       - [sort.txt](P3/sort_test.txt)
-      - 
+      - [plurality.c](P3/plurality.c)
+      - [
 4. [Problem Set 4 - 
