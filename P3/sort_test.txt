@@ -1,0 +1,46 @@
+time ./sort1 sorted5000.txt / sorted10000.txt
+real    0m0.022s / 030
+
+time ./sort2 sorted5000.txt
+real    0m0.025s / 049
+
+time ./sort3 sorted5000.txt
+real    0m0.059s / 165
+
+------------------------------
+time ./sort1 reversed5000.txt
+real    0m0.079s
+
+time ./sort2 reversed5000.txt
+real    0m0.029s
+
+time ./sort3 reversed5000.txt
+real    0m0.063s
+
+------------------------------
+time ./sort1 random5000.txt
+real    0m0.054s
+
+time ./sort2 random5000.txt
+real    0m0.019s
+
+time ./sort3 random5000.txt
+real    0m0.040s
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+selection sort: sort3 -> consuming longest time for sorted5000.txt
+bubble sort: sort1 -> consuming shortest time for sorted5000.txt
+merge sort: sort2 -> fastest for random5000.txt
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sort1 uses: bubble sort
+
+How do you know?: It consumes shortest time for sorting sorted numbers.
+
+sort2 uses: merge sort
+
+How do you know?: It's the fastest for sorting random numbers.
+
+sort3 uses: selection sort
+
+How do you know?: It consumes longest time for sorting sorted numbers.
