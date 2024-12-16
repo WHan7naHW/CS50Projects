@@ -35,5 +35,6 @@
       - [recover.c](P4/recover.c)
 5. [Problem Set 5 - Data Structures](https://cs50.harvard.edu/x/2024/psets/5/)
 
-      - [inheritance
+      - [inheritance.c](P5/inheritance.c)
+      - [speller
 6. 
