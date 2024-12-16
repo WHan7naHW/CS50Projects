@@ -39,5 +39,6 @@
       - [speller](P5/speller)
 6. [Problem Set 6 - Python](https://cs50.harvard.edu/x/2024/psets/6/)
 
+      - [hello.py](P6/hello.py)
       - [
 7. 
