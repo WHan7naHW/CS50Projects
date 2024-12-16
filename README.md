@@ -36,5 +36,8 @@
 5. [Problem Set 5 - Data Structures](https://cs50.harvard.edu/x/2024/psets/5/)
 
       - [inheritance.c](P5/inheritance.c)
-      - [speller
-6. 
+      - [speller](P5/speller)
+6. [Problem Set 6 - Python](https://cs50.harvard.edu/x/2024/psets/6/)
+
+      - [
+7. 
