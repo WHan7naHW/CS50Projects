@@ -10,7 +10,8 @@ void grayscale(int height, int width, RGBTRIPLE image[height][width])
         for (int j = 0; j < width; j++)
         {
             // take average of red, green, and blue
-            int avr = round((image[i][j].rgbtRed + image[i][j].rgbtGreen + image[i][j].rgbtBlue) / 3.0);
+            int avr =
+                round((image[i][j].rgbtRed + image[i][j].rgbtGreen + image[i][j].rgbtBlue) / 3.0);
 
             // update pixel values
             image[i][j].rgbtRed = avr;
@@ -30,9 +31,12 @@ void sepia(int height, int width, RGBTRIPLE image[height][width])
         for (int j = 0; j < width; j++)
         {
             // compute sepia values
-            int sepiaRed = round(.393 * image[i][j].rgbtRed + .769 * image[i][j].rgbtGreen + .189 * image[i][j].rgbtBlue);
-            int sepiaGreen = round(.349 * image[i][j].rgbtRed + .686 * image[i][j].rgbtGreen + .168 * image[i][j].rgbtBlue);
-            int sepiaBlue = round(.272 * image[i][j].rgbtRed + .534 * image[i][j].rgbtGreen + .131 * image[i][j].rgbtBlue);
+            int sepiaRed = round(.393 * image[i][j].rgbtRed + .769 * image[i][j].rgbtGreen +
+                                 .189 * image[i][j].rgbtBlue);
+            int sepiaGreen = round(.349 * image[i][j].rgbtRed + .686 * image[i][j].rgbtGreen +
+                                   .168 * image[i][j].rgbtBlue);
+            int sepiaBlue = round(.272 * image[i][j].rgbtRed + .534 * image[i][j].rgbtGreen +
+                                  .131 * image[i][j].rgbtBlue);
 
             // ensure the resulting value is no larger than 255
             sepiaRed = fmin(sepiaRed, 255);
@@ -106,9 +110,9 @@ void blur(int height, int width, RGBTRIPLE image[height][width])
             }
 
             // calculate and update pixel values
-            image[i][j].rgbtRed = round((float)redSum / count);
-            image[i][j].rgbtGreen = round((float)greenSum / count);
-            image[i][j].rgbtBlue = round((float)blueSum / count);
+            image[i][j].rgbtRed = round((float) redSum / count);
+            image[i][j].rgbtGreen = round((float) greenSum / count);
+            image[i][j].rgbtBlue = round((float) blueSum / count);
         }
     }
     return;
