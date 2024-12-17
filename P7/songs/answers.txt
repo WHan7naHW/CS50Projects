@@ -1,0 +1,26 @@
+1.
+Q: If songs.db contains the top 100 songs
+of one listener from 2018, how would you
+characterize their audio aura?
+
+A: I would map out the name(s) of their
+favorite song(s), favorite artist(s),
+and the kind(s) of music they like most,
+considering other features like daceability,
+valence, tempo and so forth.
+
+
+2.
+Q: Hypothesize about why the way you’ve
+calculated this aura might not be very
+representative of the listener. What
+better ways of calculating this aura
+would you propose?
+
+A: This method of calculation assumes
+that all 100 songs carry the same weight,
+which may not reflect reality. In my
+opinion, at least one additional factor
+should be taken into consideration: the
+total time the user listened to each song
+during the year 2018.
