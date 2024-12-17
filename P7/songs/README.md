@@ -1,5 +1,14 @@
 # [Songs](https://cs50.harvard.edu/x/2024/psets/7/songs/)
 
+## Understand the schema of ```songs.db```
+
+- Run ```sqlites songs.db```
+  - ```sqlite3``` will prompt you to provide a query.
+- Type ```.schema```
+  - This will output the CREATE TABLE statements that were used to generate each of the tables in the database. By examining those statements, you can identify the columns present in each table.
+- Type ```.quit``` when you want to quit ```sqlite3```
+  - It will lead you back to the original directory ```songs```.
+
 ## Implementation Details
 
 For each of the following problems, you should write a single SQL query that outputs the results specified by each problem.
