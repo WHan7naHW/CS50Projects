@@ -41,5 +41,6 @@
 
       - [hello.py](P6/hello.py)
       - [mario.py](P6/mario.py)
+      - [credit.py[(P6/credit.py)
       - [
 7. 
