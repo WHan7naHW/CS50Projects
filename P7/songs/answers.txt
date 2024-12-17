@@ -3,11 +3,10 @@ Q: If songs.db contains the top 100 songs
 of one listener from 2018, how would you
 characterize their audio aura?
 
-A: I would map out the name(s) of their
-favorite song(s), favorite artist(s),
-and the kind(s) of music they like most,
-considering other features like daceability,
-valence, tempo and so forth.
+A: For this listener’s top 100 songs from
+2018, the average energy, valence, and
+danceability are 0.65906, 0.484443, and
+0.71646 respectively.
 
 
 2.
