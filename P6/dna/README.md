@@ -2,7 +2,7 @@
 
 DNA, the carrier of genetic information in living things, has been used in criminal justice for decades. But how, exactly, does DNA profiling work? Given a sequence of DNA, how can forensic investigators identify to whom it belongs?
 
-In a file called [dna.py](dna.py) in a folder called [dna](), implement a program that identifies to whom a sequence of DNA belongs.
+In a file called [dna.py](P6/dna/dna.py) in a folder called [dna](P6/dna), implement a program that identifies to whom a sequence of DNA belongs.
 
 
 ## Useful Python's modules or functions
