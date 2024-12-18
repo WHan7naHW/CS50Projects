@@ -13,3 +13,17 @@
     ```$ wc -l output.txt```
     
     It shows ```10280 output.txt``` meaning that exclude 4 lines of title and form edges, there are 10,276 rows in total.
+
+3. Or directly show the result by running
+
+    ```$ cat 2.sql | sqlite3 movies.db```
+
+    in which case it will show
+    
+    ```
+    +-------+
+    | birth |
+    +-------+
+    | 1988  |
+    +-------+
+    ```
