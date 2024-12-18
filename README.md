@@ -59,7 +59,8 @@
 7. [Problem Set 7 - SQL](https://cs50.harvard.edu/x/2024/psets/7/)
 
       - [songs](P7/songs)
-      - [
+      - [movies](P7/movies)
+      - 
 
 
 
