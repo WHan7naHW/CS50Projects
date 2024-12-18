@@ -9,7 +9,7 @@ Provided to you is a file called movies.db, a SQLite database that stores data f
 
     ```$ cat 1.sql | sqlite3 movies.db > output.txt```
   
-    to redirect the output of the query to a text file called output.txt. 
+    to redirect the output of the query to a text file called output.txt.
 
 2. Check how many rows are returned by your query
 
@@ -30,3 +30,5 @@ Provided to you is a file called movies.db, a SQLite database that stores data f
     | 1988  |
     +-------+
     ```
+
+4. A single ```>``` will create or overwrite the file. Use the same command with ```>>``` to append to the file.
