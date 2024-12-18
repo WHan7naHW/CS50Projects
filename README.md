@@ -63,4 +63,8 @@
       - [fiftyville](P7/fiftyville)
 
 
-8. [Problem Set 
+8. [Problem Set 8 - HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2024/psets/8/)
+
+      - [Trivia
+
+9. 
