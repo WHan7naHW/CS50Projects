@@ -1,7 +1,10 @@
 # [Movies](https://cs50.harvard.edu/x/2024/psets/7/movies/)
 
+## Problem to Solve
 
-## Usage
+Provided to you is a file called movies.db, a SQLite database that stores data from IMDb about movies, the people who directed and starred in them, and their ratings. Write SQL queries to answer questions about this database of movies.
+
+## Test
 1. To test your queries in VS Code, you can query the database by running
 
     ```$ cat 1.sql | sqlite3 movies.db > output.txt```
