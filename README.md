@@ -66,6 +66,7 @@
 8. [Problem Set 8 - HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2024/psets/8/)
 
       - [Trivia](P8/trivia)
-      - [Homepage]()
+      - [Homepage](P8/homepage)
+
 
 9. 
