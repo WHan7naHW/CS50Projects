@@ -1,9 +1,12 @@
 # CS50 - Projects
-[CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
+- Course website: 
+   - [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
+   - [CS50 Youtube Channel](https://www.youtube.com/cs50/courses)
 
-- [CS50 Manual](https://manual.cs50.io/)
-- [CS50 Gradebook](https://cs50.me/cs50x)
-- [CS50 Workplace](https://cs50.dev/)
+- Useful links:
+   - [CS50 Manual](https://manual.cs50.io/)
+   - [CS50 Gradebook](https://cs50.me/cs50x)
+   - [CS50 Workplace](https://cs50.dev/)
 
 
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
