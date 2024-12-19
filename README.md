@@ -65,8 +65,7 @@
 
 8. [Problem Set 8 - HTML, CSS, JavaScript](https://cs50.harvard.edu/x/2024/psets/8/)
 
-      - [Trivia
-         - [Codepen](https://codepen.io/WHan7naHW/pen/qEWrJQy)
-      - 
+      - [Trivia](P8/trivia)
+      - [Homepage]()
 
 9. 
