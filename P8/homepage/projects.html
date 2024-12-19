@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="styles.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,400&amp;display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:700&amp;display=swap" rel="stylesheet">
+        <title>Projects</title>
+    </head>
+
+    <body>
+        <nav id="navbar" class="nav">
+            <ul class="nav-list">
+                <li><a href="index.html">Homepage</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div id="projects" class="projects">
+            <h2 class="projects-header">These are some of my projects</h2>
+            <div class="projects-grid">
+
+                <div id="game">
+                    <div id="stats">
+                        <span class="stat">XP: <strong><span id="xpText">0</span></strong></span>
+                        <span class="stat">Health: <strong><span id="healthText">100</span></strong></span>
+                        <span class="stat">Gold: <strong><span id="goldText">50</span></strong></span>
+                    </div>
+                    <div id="controls">
+                        <button id="button1">Go to store</button>
+                        <button id="button2">Go to cave</button>
+                        <button id="button3">Fight dragon</button>
+                    </div>
+                    <div id="monsterStats">
+                        <span class="stat">Monster Name: <strong><span id="monsterName"></span></strong></span>
+                        <span class="stat">Health: <strong><span id="monsterHealth"></span></strong></span>
+                    </div>
+                    <div id="text">
+                        Welcome to Dragon Repeller. You must defeat the dragon that is preventing people from leaving the town. You are in the town square. Where do you want to go? Use the buttons above.
+                    </div>
+                </div>
+                <script src="./script.js"></script>
+
+                <a href="https://codepen.io/WHan7naHW/pen/rNXoQzr" target="_blank" class="project project-title">
+                    <img class="project-image" src="https://raw.githubusercontent.com/WHan7naHW/CS50Projects/refs/heads/main/P8/homepage/C02c01p06.png" alt="project">
+                    <p class="project-title">
+                        <span class="code">&lt;</span>
+                        Rock, Paper, Scissors!
+                        <span class="code">/&gt;</span>
+                    </p>
+                </a>
+                <a href="https://colab.research.google.com/drive/1NmOoqcDopDQhqiEZz_E_yNJyRLUa0-N8#scrollTo=PLS_ke_AbWZB" target="_blank" class="project project-title">
+                    <img class="project-image" src="https://raw.githubusercontent.com/WHan7naHW/CS50Projects/refs/heads/main/P8/homepage/C08c02p01.png" alt="project">
+                    <p class="project-title">
+                        <span class="code">&lt;</span>
+                        Password Generator
+                        <span class="code">/&gt;</span>
+                    </p>
+                </a>
+            </div>
+            <a href="https://codepen.io/WHan7naHW" class="btn btn-show-all" target="_blank">Show all<i class="fas fa-chevron-right"></i></a>
+        </div>
+
+        <footer>
+            <p>© 2024 Han Wang. All rights reserved.</p>
+        </footer>
+    </body>
+
+</html>

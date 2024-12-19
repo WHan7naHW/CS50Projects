@@ -1,0 +1,25 @@
+Specification
+
+I. 10 HTML tags (besides <html>, <head>, <body>, and <title>):
+1. <nav>
+2. <ul>
+3. <li>
+4. <div>
+5. <p>
+6. <footer>
+7. <span>
+8. <img>
+9. <a>
+10. <i>
+11. <button>
+
+II. 5 CSS properties (such as font-size, or margin):
+1. padding
+2. box-sizing
+3. letter-spacing
+4. text-align
+5. display
+6. justify-content
+
+III. A brief description:
+I use JavaScript to build a Role Playing Game and Bootstrap for responsive design and styling.
