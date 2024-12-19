@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <title>Trivia!</title>
+    <script>
+        // Part 1: Multiple-choice logic
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('.answer-btn').forEach(button => {
+                button.addEventListener('click', function () {
+                    document.querySelectorAll('.answer-btn').forEach(btn => {
+                        btn.classList.remove('correct', 'incorrect');
+                    });
+
+                    // Check if the clicked button is correct
+                    const isCorrect = this.getAttribute('data-correct') === 'true';
+                    const feedback = document.getElementById('sisu-feedback');
+
+                    if (isCorrect) {
+                        this.classList.add('correct');
+                        feedback.textContent = "Correct!";
+                        feedback.style.color = "green";
+                    } else {
+                        this.classList.add('incorrect');
+                        feedback.textContent = "Incorrect";
+                        feedback.style.color = "red";
+                    }
+                });
+            });
+        });
+
+        // Part 2: Free response logic
+        document.addEventListener('DOMContentLoaded', function () {
+            document.getElementById('lake-submit').addEventListener('click', function () {
+                const lakeInput = document.getElementById('lake-input');
+                const feedback = document.getElementById('lake-feedback');
+                const userAnswer = parseInt(lakeInput.value.trim(), 10);
+                const correctAnswer = 188000; // Approximate number of lakes in Finland
+                const tolerance = 10000; // Acceptable range
+
+                if (Math.abs(userAnswer - correctAnswer) <= tolerance) {
+                    lakeInput.classList.add('correct');
+                    feedback.textContent = `Correct! Finland has approximately ${correctAnswer} lakes.`;
+                    feedback.style.color = "green";
+                } else {
+                    lakeInput.classList.add('incorrect');
+                    feedback.textContent = `Incorrect. Please try again.`;
+                    feedback.style.color = "red";
+                }
+
+                lakeInput.value = ""; // Clear input after feedback
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="header">
+        <h1>Trivia!</h1>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <h2>Part 1: Multiple Choice</h2>
+            <hr>
+            <!-- Add multiple choice question here -->
+            <h3>What does "sisu" mean in Finnish?</h3>
+            <button class="answer-btn" data-correct="true">Courage and determination</button><br>
+            <button class="answer-btn" data-correct="false">A type of Finnish bread</button>
+            <button class="answer-btn" data-correct="false">A winter sports competition</button>
+            <p class="feedback" id="sisu-feedback"></p>
+        </div>
+
+        <div class="section">
+            <h2>Part 2: Free Response</h2>
+            <hr>
+            <!-- Add free response question here -->
+            <h3>Question 2: Finland is known as the land of a thousand lakes. How many lakes are there in Finland?</h3>
+            <input type="text" id="lake-input" placeholder="Your guess here"><br><br>
+            <button type="submit" id="lake-submit">Check</button>
+            <p class="feedback" id="lake-feedback"></p>
+        </div>
+    </div>
+</body>
+</html>
