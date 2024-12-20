@@ -12,8 +12,8 @@ Create a web application to keep track of friends’ birthdays.
 
 #### Optionally, you may also:
 
-- Add the ability to delete and/or edit birthday entries.
-- Add any additional features of your choosing!
+- [x] Add the ability to delete and/or edit birthday entries.
+- [ ] Add any additional features of your choosing!
 
 
 ## Files
