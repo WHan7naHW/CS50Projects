@@ -13,7 +13,7 @@ Create a web application to keep track of friends’ birthdays.
 ## Files
 
 - [index.html](index.html)
-- [styles.css](styles.css)
+- [styles.css](static/styles.css)
 - [app.py](app.py)
 - [birthdays.db](birthdays.db)
 
