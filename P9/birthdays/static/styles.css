@@ -83,3 +83,8 @@ table td {
 tbody tr:nth-of-type(odd) {
     background-color: rgb(179, 208, 255, 0.3)
 }
+
+.delete-button:hover {
+    background-color: transparent;
+    cursor: pointer;
+}
