@@ -75,6 +75,7 @@
 9. [Problem Set 9 - Flask](https://cs50.harvard.edu/x/2024/psets/9/)
 
       - [Birthdays](P9/birthdays)
+      - [C$50 Finance](P9/finance)
 
 
 10. 
