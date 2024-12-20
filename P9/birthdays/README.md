@@ -10,6 +10,12 @@ Create a web application to keep track of friends’ birthdays.
 - Add a user's form submission to the database
 - Render birthdays in birthdays.db
 
+#### Optionally, you may also:
+
+- Add the ability to delete and/or edit birthday entries.
+- Add any additional features of your choosing!
+
+
 ## Files
 
 - [index.html](templates/index.html)
