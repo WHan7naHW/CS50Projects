@@ -8,6 +8,8 @@
    - [CS50 Gradebook](https://cs50.me/cs50x)
    - [CS50 Workplace](https://cs50.dev/)
 
+- Certification:
+   - [CS50 Certification
 
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
 
@@ -78,4 +80,8 @@
       - [C$50 Finance](P9/finance)
 
 
-10. 
+10. [Final Project](https://cs50.harvard.edu/x/2024/project/)
+
+      - [final](FP/final)
+   
+
