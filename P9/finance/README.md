@@ -2,7 +2,7 @@
 
 ## Problem to solve
 
-Implement a website via which users can “buy” and “sell” stocks, à la the below.
+Implement a website via which users can “buy” and “sell” stocks.
 
 ## Specification
 
