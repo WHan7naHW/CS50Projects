@@ -4,8 +4,6 @@
 
 Implement a website via which users can “buy” and “sell” stocks, à la the below.
 
-![finance](https://cs50.harvard.edu/x/2024/psets/9/finance/finance_2024.png)
-
 ## Specification
 
 ### Templates
@@ -30,3 +28,5 @@ Implement at least one personal touch of your choice:
 - [ ] Allow users to buy more shares or sell shares of stocks they already own via index itself, without having to type stocks’ symbols manually.
 - [ ] Implement some other feature of comparable scope.
 
+#### Demo
+![finance](https://cs50.harvard.edu/x/2024/psets/9/finance/finance_2024.png)
