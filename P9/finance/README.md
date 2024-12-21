@@ -8,15 +8,19 @@ Implement a website via which users can “buy” and “sell” stocks, à la t
 
 ## Specification
 
-  - [index.html]
-  - [register.html]
-  - [quote.html]
-  - [quoted.html]
-  - [buy.html]
-  - [sell.html]
-  - [history.html]
-  - [changepw.html]
-  - [app.py]
+### Templates
+- [index.html](templates/index.html)
+- [register.html](templates/register.html)
+- [quote.html](templates/quote.html)
+- [quoted.html](templates/quoted.html)
+- [buy.html](templates/buy.html)
+- [sell.html](templates/sell.html)
+- [history.html](templates/history.html)
+- [changepw.html](templates/changepw.html)
+
+### Application Logic
+- [app.py](app.py)
+
 
 ## Personal touch
 Implement at least one personal touch of your choice:
