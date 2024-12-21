@@ -83,6 +83,8 @@
 10. [Final Project](https://cs50.harvard.edu/x/2024/project/)
 
       - [final](FP/final)
-   
+
+
+---
 
 💡 ```This was CS50x!``` 🥰
