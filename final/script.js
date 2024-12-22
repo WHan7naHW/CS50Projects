@@ -103,6 +103,20 @@ const allSongs = [{
         duration: "3:52",
         src: "https://open.spotify.com/track/0ozRY29bc3pAagi4EL9mlI?si=200769f990904f3f",
     },
+    {
+        id: 14,
+        title: "Mendelssohn's Wedding March - Kalimba",
+        artist: "Mendelssohn (Cover by Han Wang)",
+        duration: "00:34",
+        src: "https://raw.githubusercontent.com/WHan7naHW/CS50Projects/refs/heads/main/final/Kalimba.m4a",
+    },
+    {
+        id: 15,
+        title: "Hohmann's Birthday March - Violin",
+        artist: "Hohmann (Cover by Han Wang)",
+        duration: "00:09",
+        src: "https://raw.githubusercontent.com/WHan7naHW/CS50Projects/refs/heads/main/final/Violin.m4a",
+    },
 ];
 
 const audio = new Audio();
