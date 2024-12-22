@@ -3,6 +3,7 @@
 - [x] a web-based application using HTML, SQL and JavaScript
 - [x] a CS50's [Final Project](https://cs50.harvard.edu/x/2024/project/)
 - [x] Video Demo:  <https://youtu.be/zHFBVluKg28>
+- [x] [CodePen](https://codepen.io/WHan7naHW/pen/dPbWxwN)
 
 ## Description:
 
