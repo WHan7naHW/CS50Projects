@@ -8,8 +8,8 @@
    - [CS50 Gradebook](https://cs50.me/cs50x)
    - [CS50 Workplace](https://cs50.dev/)
 
-- Certification:
-   - [CS50 Certification
+- Certificate:
+   - [CS50 Certificate](https://certificates.cs50.io/26ae693a-d896-4ca2-b917-33f717cff58b)
 
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
 
