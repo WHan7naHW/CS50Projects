@@ -20,11 +20,12 @@
 1. A short [video; and submit this [form](https://forms.cs50.io/d5009db5-ee7d-43f1-8214-87cebc1a554f)!
 
     - The video begins with an opening section that displays:
-      - project title;
-      - name;
-      - GitHub and edX usernames;
-      - city and country;
-      - the date of recording this video;
+      - project title: Music Player App
+      - name: Han Wang
+      - GitHub username: WHan7naHW
+      - edX username: Hannahw007
+      - city and country: Oulu, Finland
+      - the date of recording this video: Dec. 22nd, 2024
     - It then goes on to demonstrate the project in action. 
 
 2. A ```README.md``` text file that explains the project; and ```submit50``` to cs50.
