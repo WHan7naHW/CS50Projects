@@ -111,7 +111,7 @@ This music player project combines essential technical skills and creative desig
 3. Step 3:
   
     - [x] The [gradebook](cs50.me/cs50x); and
-    - [ ] [Certificate. 
+    - [x] [Certificate](https://certificates.cs50.io/26ae693a-d896-4ca2-b917-33f717cff58b). 
 
 
 ---
