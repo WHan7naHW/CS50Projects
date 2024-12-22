@@ -1,9 +1,9 @@
 # Music Player App
 
-- [x] a web-based application using HTML, SQL and JavaScript
-- [x] a CS50's [Final Project](https://cs50.harvard.edu/x/2024/project/)
-- [x] Video Demo:  <https://youtu.be/zHFBVluKg28>
-- [x] [CodePen](https://codepen.io/WHan7naHW/pen/dPbWxwN)
+- a web-based application using HTML, SQL and JavaScript
+- a CS50's [Final Project](https://cs50.harvard.edu/x/2024/project/)
+- Video Demo:  <https://youtu.be/zHFBVluKg28>
+- [CodePen](https://codepen.io/WHan7naHW/pen/dPbWxwN)
 
 ## Description:
 
@@ -88,22 +88,30 @@ Moving forward, the project has several potential enhancements:
 This music player project combines essential technical skills and creative design to deliver a functional and visually appealing application. By leveraging HTML, CSS, and JavaScript, it showcases a harmonious integration of front-end and back-end technologies. While there is room for growth, the current implementation highlights the potential for developing robust, user-centered web applications. The project stands as both a practical tool for music enthusiasts and a testament to the developer’s technical capabilities.
 
 
-#### Others
+#### How to submit
 
-1. A short [video](https://youtu.be/zHFBVluKg28); and submit this [form](https://forms.cs50.io/d5009db5-ee7d-43f1-8214-87cebc1a554f)!
+1. Step 1:
+  
+    - [x] A short [video](https://youtu.be/zHFBVluKg28);
+        - The video begins with an opening section that displays:
+          - project title: Music Player App
+          - name: Han Wang
+          - GitHub username: WHan7naHW
+          - edX username: Hannahw007
+          - city and country: Oulu, Finland
+          - the date of recording this video: Dec. 22nd, 2024
+        - It then goes on to demonstrate the project in action. 
+    - [x] [form](https://forms.cs50.io/d5009db5-ee7d-43f1-8214-87cebc1a554f)
 
-    - The video begins with an opening section that displays:
-      - project title: Music Player App
-      - name: Han Wang
-      - GitHub username: WHan7naHW
-      - edX username: Hannahw007
-      - city and country: Oulu, Finland
-      - the date of recording this video: Dec. 22nd, 2024
-    - It then goes on to demonstrate the project in action. 
+2. Step 2:
+  
+    - [x] A ```README.md``` text file that explains the project; and
+    - [x] ```submit50``` to cs50.
 
-2. A ```README.md``` text file that explains the project; and ```submit50``` to cs50.
-
-3. The [gradebook](cs50.me/cs50x); and my [Certificate. 
+3. Step 3:
+  
+    - [x] The [gradebook](cs50.me/cs50x); and
+    - [ ] [Certificate. 
 
 
 ---
