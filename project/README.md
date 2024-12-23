@@ -2,7 +2,7 @@
 
 - a web-based application using HTML, SQL and JavaScript
 - a CS50's [Final Project](https://cs50.harvard.edu/x/2024/project/)
-- Video Demo:  <https://youtu.be/zHFBVluKg28>
+- Video Demo: <https://youtu.be/zHFBVluKg28>
 - [CodePen](https://codepen.io/WHan7naHW/pen/dPbWxwN)
 
 ## Description:
