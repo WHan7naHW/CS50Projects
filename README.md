@@ -1,4 +1,9 @@
-# CS50 - Projects
+# CS50x 2024 - Projects
+
+This is CS50, Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience. 
+
+The course starts with a traditional but omnipresent language called C that underlies today’s newer languages, via which you’ll learn not only about functions, variables, conditionals, loops, and more, but also about how computers themselves work underneath the hood, memory and all. The course then transitions to Python, a higher-level language that you’ll understand all the more because of C. Toward term’s end, the course introduces SQL, via which you can store data in databases, along with HTML, CSS, and JavaScript, via which you can create web and mobile apps alike. Course culminates in a final project.
+
 - Course website: 
    - [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
    - [CS50 Youtube Channel](https://www.youtube.com/cs50/courses)
@@ -8,7 +13,7 @@
    - [CS50 Gradebook](https://cs50.me/cs50x)
    - [CS50 Workplace](https://cs50.dev/)
 
-- Certificate:
+- My Certificate🥳:
    - [CS50 Certificate](https://certificates.cs50.io/26ae693a-d896-4ca2-b917-33f717cff58b)
 
 ## [Problem Sets](https://cs50.harvard.edu/x/2024/psets/)
