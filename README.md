@@ -89,6 +89,10 @@ The course starts with a traditional but omnipresent language called C that unde
 
       - [final](final)
 
+## [What’s new for 2025?](https://cs50.harvard.edu/x/2025/new/)
+
+- New-and-improved [lectures](https://cs50.harvard.edu/x/2025/weeks/);
+- and more.
 
 ---
 
